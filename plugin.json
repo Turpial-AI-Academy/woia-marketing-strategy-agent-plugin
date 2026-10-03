@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-marketing-strategy",
+  "version": "0.5.0",
+  "description": "WOIA Marketing provider for evidence-backed strategy, campaign objectives, positioning, channel choices, constraints, KPI definitions, and strategic tradeoffs.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-marketing-strategy-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-marketing-strategy-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "marketing",
+    "marketing-strategy"
+  ]
+}

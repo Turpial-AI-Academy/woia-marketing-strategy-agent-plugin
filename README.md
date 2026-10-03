@@ -1,2 +1,9 @@
-# woia-marketing-strategy-agent-plugin
-WOIA v0.5.0 component: woia-marketing-strategy-agent-plugin
+# woia-marketing-strategy
+
+WOIA Marketing v0.5.0 provider for `marketing.strategy`.
+
+- Primary skill: `$marketing-strategy`
+- Authoring profile: thin
+- Origin: WOIA-native
+
+Capability-owned tools/templates live in this plugin. Generic certification/release tooling lives in `woia-ecosystem`.
