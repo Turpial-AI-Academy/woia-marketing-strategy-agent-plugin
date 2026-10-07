@@ -4,12 +4,14 @@ description: Define or review evidence-backed marketing strategy, campaign objec
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.0"
+  version: "0.5.1"
 ---
 
 # Marketing Strategy
 
 Use this capability when the Task needs strategic decisions that materially shape downstream Marketing work.
+
+Marketing and Ads may use this same analytical capability. Ads strategy planning never authorizes paid effects. Apply the [consumer contract](references/consumer-contract.md) before routing W3 requests; the optional [request guard](scripts/consumer-guard.mjs) rejects effects and unknown eligibility, and never grants authority. All prior strategy inputs, workflow and outputs remain unchanged.
 
 ## Inputs
 
