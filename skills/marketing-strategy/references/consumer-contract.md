@@ -2,7 +2,7 @@
 
 The `marketing.strategy` skill and strategy brief remain analytical/drafting resources. Marketing and Ads may consume the same strategy method. Ads may request paid-strategy planning, objectives, positioning, channel rationale and KPI definitions; this does not transfer ownership of paid decisions/effects to this provider.
 
-Use versioned source references and organization/purpose-authorized inputs. Preserve observation, inference and recommendation separately; unresolved source conflicts or stale evidence remain UNKNOWN, never competent acceptance. Real Estate Source Authority semantics belong in `woia-re-domain-contracts`; this provider does not copy or accept those business facts.
+Use versioned source references and organization/purpose-authorized inputs. Preserve observation, inference and recommendation separately; unresolved source conflicts or stale evidence remain UNKNOWN, never competent acceptance. Domain-specific source semantics arrive through the host's admitted specialization bindings; this provider does not copy or accept domain business facts.
 
 No request may publish, spend, configure targeting, contact a person, execute a payment or mutate external systems. Paid execution belongs to Ads through Ads Platforms with exact authority. Public/non-person execution belongs to Marketing through its selected channel provider. External-person interactions belong to Communications/Customer Service. A strategy recommendation, selected channel or budget proposal is never execution permission.
 

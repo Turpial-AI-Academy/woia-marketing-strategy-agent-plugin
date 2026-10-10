@@ -4,7 +4,7 @@ description: Define or review evidence-backed marketing strategy, campaign objec
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.7"
+  version: "0.5.8"
 ---
 
 # Marketing Strategy
